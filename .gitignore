@@ -1,0 +1,12 @@
+# Credentials
+components/wifi_manager/include/secrets.h
+
+# Build output and generated config
+.pio/
+managed_components/
+sdkconfig.*
+!sdkconfig.defaults
+
+# Editor and OS
+.vscode/
+.DS_Store
